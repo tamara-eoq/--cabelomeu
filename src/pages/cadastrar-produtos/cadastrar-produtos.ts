@@ -6,8 +6,11 @@ import { FirebaseProvider } from '../../providers/firebase';
 import { ImagesUpload } from '../../providers/image-upload';
 import { Camera } from '@ionic-native/camera';
 import * as firebase from 'firebase';
+
+
 import { Validators, FormBuilder, FormGroup } from '@angular/forms';
 import { ToastController } from 'ionic-angular';
+
 @IonicPage()
 @Component({
   selector: 'page-cadastrar-produtos',

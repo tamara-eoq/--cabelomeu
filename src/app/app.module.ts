@@ -24,6 +24,7 @@ import { NativeAudio } from '@ionic-native/native-audio';
 //Firebase config
 import { firebaseConfig } from '../configs/firebase';
 
+
 //Providers
 import { AngularFireModule } from 'angularfire2';
 import { AngularFirestoreModule } from 'angularfire2/firestore';
